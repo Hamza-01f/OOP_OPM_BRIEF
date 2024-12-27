@@ -1,0 +1,11 @@
+{
+    "name": "futchamp/orm-project",
+    "description": "A custom ORM for the Fut Champ project",
+    "require": {
+        "doctrine/orm": "^2.9",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
+
+
+
