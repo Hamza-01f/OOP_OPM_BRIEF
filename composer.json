@@ -1,11 +1,14 @@
 {
-    "name": "futchamp/orm-project",
-    "description": "A custom ORM for the Fut Champ project",
+    "name": "youcode/dev-to-blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
     "require": {
-        "doctrine/orm": "^2.9",
-        "vlucas/phpdotenv": "^5.4"
+        "vlucas/phpdotenv": "^5.6"
     }
+    
 }
-
 
 
